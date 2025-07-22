@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Isha Jaswal</h1>
 <p align="center">A passionate developer eager to build and grow through code 🚀</p>
 
 ---
@@ -22,22 +22,12 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on: [Your Current Project or Learning Goal]
-- 🌱 I’m currently learning: [What you're learning]
+- 🌱 I’m currently learning: React & Django
 - 💬 Ask me about: C, Python, Web Development, WordPress
-- 📫 How to reach me: [Your Email or LinkedIn/GitHub link]
+- 📫 How to reach me: iamishajaswal@gmail.com
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak"/>
-</p>
-
----
 
 ### 🔗 Let's Connect
 
